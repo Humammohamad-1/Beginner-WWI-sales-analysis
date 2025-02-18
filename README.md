@@ -34,9 +34,9 @@ The data comes from the **imaginary company Wide World Importers (WWI)**.
 ---
 
 ## 📸 Data Model Visualization
-*(Replace `images/your-image.png` with the actual image path after uploading it to your repo.)*
 
-![Data Model]![image](https://github.com/user-attachments/assets/800639db-b114-47b4-975c-70eb0e314f85)
+![Data Model]![image](https://github.com/user-attachments/assets/1a2b03be-a864-4029-b5fc-086a003d23c1)
+
 
 
 ---
