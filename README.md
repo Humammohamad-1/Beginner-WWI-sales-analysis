@@ -1,7 +1,8 @@
 # Beginner Power BI Project 📌
 
 ## 📌 Project Overview
-This repository contains a **Power BI project** demonstrating **business intelligence analysis** using a **star schema dataset**. The goal is to showcase skills in **data modeling, visualization, and reporting**.
+This repository contains a **Power BI project** demonstrating **business intelligence analysis** using a **star schema dataset**.  
+The goal is to showcase skills in **data modeling, visualization, and reporting**.
 
 ## 📊 Dataset Description
 The dataset follows a **star schema**, which consists of **1 fact table** and **4 dimension tables**.
@@ -17,42 +18,13 @@ The data comes from the **imaginary company Wide World Importers (WWI)**.
   - `DimDate.csv`
   - `DimCity.csv`
 
-### **Fact Table: `FactSale`**
-The **FactSale** table contains **transactional sales data**, including:
-- `Bill To Customer Key`
-- `City Key`
-- `Customer Key`
-- `Delivery Date Key`
-- `Invoice Date Key`
-- `Description`
-- `Package`
-- `Profit`
-- `Quantity`
+---
 
-### **Dimension Tables**
-#### 📅 `DimDate` - Stores date-related attributes:
-- `Calendar Year`
-- `Calendar Month Label`
-- `Day Number`
-- `Fiscal Year`
+## 📸 Data Model Visualization
+*(Replace `images/your-image.png` with the actual image path after uploading it to your repo.)*
 
-#### 🛍️ `DimCustomer` - Contains customer information:
-- `Customer Key`
-- `Buying Group`
-- `Category`
-- `Credit Limit`
-- `Postal Code`
+![Data Model](images/your-image.png)
 
-#### 🌍 `DimCity` - Provides geographical details:
-- `City Key`
-- `State Province`
-- `Country`
-- `Sales Territory`
-
-#### 👥 `DimEmployee` - Holds employee-related data:
-- `Employee Key`
-- `Is Salesperson`
-- `Preferred Name`
 
 ---
 
@@ -73,6 +45,14 @@ The **Power BI report** includes the following insights:
 - A **key metric card** showing the **average total including tax**.
 - A **bar chart** displaying the **minimum total including tax by buying group**, offering insight into different customer segments.
 
+
 ---
 
+## 📸 Power BI Dashboard Preview
+
+![Dashboard Preview]![image](https://github.com/user-attachments/assets/f8f4f074-b625-4724-af9f-f3a5f7aa2945)
+![image](https://github.com/user-attachments/assets/455d7feb-80cf-4c74-980a-ce29765fbe79)
+
+
+---
 
