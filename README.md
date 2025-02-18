@@ -4,6 +4,19 @@
 This repository contains a **Power BI project** demonstrating **business intelligence analysis** using a **star schema dataset**.  
 The goal is to showcase skills in **data modeling, visualization, and reporting**.
 
+## 📊 Business Case
+The company **Wide World Importers (WWI)** operates in the **wholesale and distribution industry**, managing **various product categories** across different regions.  
+To improve **sales performance, employee productivity, and profitability**, the company needs **actionable insights** into key financial metrics.  
+
+This **Power BI dashboard** provides **data-driven decision-making tools** by analyzing:
+- **Product sales trends** over time.
+- **Employee sales contributions and profit impact**.
+- **Geographical sales performance and profitability analysis**.
+
+These insights help **management identify opportunities for revenue growth, optimize resource allocation, and enhance sales strategies.**
+
+---
+
 ## 📊 Dataset Description
 The dataset follows a **star schema**, which consists of **1 fact table** and **4 dimension tables**.
 
@@ -23,10 +36,18 @@ The data comes from the **imaginary company Wide World Importers (WWI)**.
 ## 📸 Data Model Visualization
 *(Replace `images/your-image.png` with the actual image path after uploading it to your repo.)*
 
-![Data Model](images/your-image.png)
+![Data Model]![image](https://github.com/user-attachments/assets/800639db-b114-47b4-975c-70eb0e314f85)
 
 
 ---
+
+## 📈 Key Insights & Analysis Conducted
+
+### 1️⃣ **Sales Performance Analysis**
+- **Objective:** Understand how product sales have evolved over the years.
+- **Key Insights:**
+  - Sales **peaked between 2013-2015** but saw a decline in 2016.
+  - **Dry items significantly contribute** to overall sales
 
 ## 📈 Analysis Conducted
 The **Power BI report** includes the following insights:
